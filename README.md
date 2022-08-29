@@ -9,4 +9,4 @@ omidhey/omidhey is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-##  چه کند کز پی دوران نرود چون پرگار       هر که در دایره گردش ایام افتاد
+  چه کند کز پی دوران نرود چون پرگار       هر که در دایره گردش ایام افتاد
