@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Omid Heydari @omidhey
-- 👀 I’m interested in Python, Machine Learning, Blockchain subjects
-- 🌱 I’m currently learning Python, Machine Learning, Blockchain skills
-- 💞️ I’m looking to collaborate on Python, Machine Learning, Blockchain projects
+- 👀 I work on as a programmer on AI team
+- 🌱 I am devoted to some financial projects related to industries such as Energy management system for refinery
+- 💞️ I am a life long learner and learning AI engineering, philosophy, psychology, all kind of science.
+- ✨ I personally started world history project to have a valuable legacy for future.
 - 📫 How to reach me @omidheydario  Telegram &  @heydariom Instagram
 
 <!---
